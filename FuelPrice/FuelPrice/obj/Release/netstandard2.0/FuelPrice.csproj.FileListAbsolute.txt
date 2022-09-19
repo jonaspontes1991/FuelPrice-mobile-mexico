@@ -1,0 +1,87 @@
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\bin\Release\netstandard2.0\FuelPrice.deps.json
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\bin\Release\netstandard2.0\FuelPrice.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\bin\Release\netstandard2.0\ref\FuelPrice.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\bin\Release\netstandard2.0\FuelPrice.pdb
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\Login.xaml.g.cs
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\MainShell.xaml.g.cs
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\Partial Views\HeaderMenu.xaml.g.cs
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\RegistroPvp.xaml.g.cs
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.AssemblyInfoInputs.cache
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.AssemblyInfo.cs
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.csproj.CoreCompileInputs.cache
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\XamlC.stamp
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\ref\FuelPrice.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.pdb
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\Home.xaml.g.cs
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\Modal\ModalPvp.xaml.g.cs
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\BuscaPvp.xaml.g.cs
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\Modal\UpdateModal.xaml.g.cs
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\FuelPriceDynamics.xaml.g.cs
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\FuelPriceForeCast.xaml.g.cs
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\FuelPriceReport.xaml.g.cs
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\SehellDynamics.xaml.g.cs
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\shellforeCast.xaml.g.cs
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\shellReport.xaml.g.cs
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.csproj.AssemblyReference.cache
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\bin\Release\netstandard2.0\FuelPrice.deps.json
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\bin\Release\netstandard2.0\FuelPrice.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\bin\Release\netstandard2.0\ref\FuelPrice.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\bin\Release\netstandard2.0\FuelPrice.pdb
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\SehellDynamics.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\shellforeCast.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\shellReport.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\BuscaPvp.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\FuelPriceDynamics.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\FuelPriceForeCast.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\FuelPriceReport.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\Home.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\Login.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\MainShell.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\Modal\ModalPvp.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\Partial Views\HeaderMenu.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\RegistroPvp.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.AssemblyInfoInputs.cache
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.AssemblyInfo.cs
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.csproj.CoreCompileInputs.cache
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\XamlC.stamp
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\ref\FuelPrice.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.pdb
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.csproj.AssemblyReference.cache
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\Informe.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\bin\Release\netstandard2.0\FuelPrice.deps.json
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\bin\Release\netstandard2.0\FuelPrice.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\bin\Release\netstandard2.0\ref\FuelPrice.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\bin\Release\netstandard2.0\FuelPrice.pdb
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\SehellDynamics.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\shellforeCast.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\shellReport.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\BuscaPvp.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\FuelPriceDynamics.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\FuelPriceForeCast.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\FuelPriceReport.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\Home.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\Informe.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\Login.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\MainShell.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\Modal\ModalPvp.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\Partial Views\HeaderMenu.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\Views\RegistroPvp.xaml.g.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.AssemblyInfoInputs.cache
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.AssemblyInfo.cs
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.csproj.CoreCompileInputs.cache
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\XamlC.stamp
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\ref\FuelPrice.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.pdb
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice\obj\Release\netstandard2.0\FuelPrice.csproj.AssemblyReference.cache

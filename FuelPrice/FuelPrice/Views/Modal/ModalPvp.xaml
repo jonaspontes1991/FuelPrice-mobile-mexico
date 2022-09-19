@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FuelPrice.Views.Modal.ModalPvp">
+    <ContentPage.Content>
+        <StackLayout  Margin="0,0,0,0" >
+            <StackLayout>
+                <Frame HeightRequest="100" >
+                    <Image Source="Logo.png" WidthRequest="100" Margin="0"  />
+                </Frame>
+            </StackLayout>
+            <StackLayout >
+                <Frame Margin="0,20,0,0" >
+                    
+                    <Grid ColumnSpacing="2" RowSpacing="0" Margin="05,0,0,0"  >
+                        <BoxView Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="6" BackgroundColor="#36edd3" CornerRadius="10"/>
+                        <Label x:Name="nomeCliente" FontAttributes="Bold" TextColor="#7d2b4f" FontSize="Medium"  Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="6" HorizontalOptions="Center" VerticalOptions="Center"/>
+                        <Label Text="FECHA" FontAttributes="Bold" TextColor="#36edd3" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+                        <Label Text="HORA" FontAttributes="Bold" TextColor="#36edd3" Grid.Column="2" Grid.Row="1" Grid.ColumnSpan="2" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+                        <Label Text="PRECIO" FontAttributes="Bold" TextColor="#36edd3" Grid.Column="4" Grid.Row="1" Grid.ColumnSpan="2" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
+                        <BoxView Grid.Column="0" Grid.Row="2" BackgroundColor="#36edd3" CornerRadius="10" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+                        <DatePicker x:Name="txtData" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" Grid.RowSpan="2" FontSize="14" HorizontalOptions="Center" BackgroundColor="Transparent" VerticalOptions="Center"/>
+                        <BoxView Grid.Column="2" Grid.Row="2" BackgroundColor="#36edd3" CornerRadius="10" Grid.ColumnSpan="2" Grid.RowSpan="2" />
+                        <TimePicker x:Name="txtHora"  Grid.Row="2" Format="HH:mm" Grid.Column="2" Grid.ColumnSpan="2" Grid.RowSpan="2" VerticalOptions="CenterAndExpand" BackgroundColor="Transparent" HorizontalOptions="CenterAndExpand" FontSize="14"  TextColor="Black" />
+                        <BoxView Grid.Column="4" Grid.Row="2" BackgroundColor="#36edd3" CornerRadius="10" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+                        <Entry x:Name="txtPreco" Keyboard="Plain" Placeholder="0.00000" Grid.Row="2" Grid.Column="4" Grid.ColumnSpan="2" Grid.RowSpan="2" WidthRequest="100" VerticalOptions="CenterAndExpand" BackgroundColor="Transparent" HorizontalOptions="CenterAndExpand" FontSize="14"  PlaceholderColor="Black" TextColor="Black"/>
+                    </Grid>
+                </Frame>
+            </StackLayout>
+            <StackLayout VerticalOptions="StartAndExpand" >
+                <Frame BackgroundColor="#36edd3" Margin="20,0"  CornerRadius="10" HasShadow="True" Padding="05" >
+                    <Grid ColumnSpacing="0" RowSpacing="0" Margin="05" x:Name="slideCliente" >
+                        <BoxView Grid.Column="0" Grid.Row="0"/>
+                        <Image Source="Posto.png" WidthRequest="30" Grid.Column="0" Grid.Row="0" VerticalOptions="Start"/>
+                        <BoxView Grid.Column="1" Grid.Row="0"/>
+                        <Label Grid.Column="1" Grid.Row="0" Text="NOMBRE:" Grid.ColumnSpan="4" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" FontSize="Small" FontAttributes="Bold" TextColor="Black"/>
+                        <Picker x:Name="combName" Title="Combustible"
+                        BackgroundColor="Transparent"
+                        TitleColor="#7d2b4f"
+                        ItemsSource="{Binding produtos_list}"
+                        ItemDisplayBinding="{Binding VTP_DESCRIPCION}" HorizontalTextAlignment="Center"  Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="6" WidthRequest="300" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" FontSize="Medium" FontAttributes="Bold" TextColor="#7d2b4f" />
+                        <BoxView Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="6"/>
+                        <Button Text="GUARDAR" Clicked="Button_Clicked"  BackgroundColor="Green" Grid.Column="0"  Grid.Row="2" Grid.ColumnSpan="6" HorizontalOptions="Center" VerticalOptions="Center" CornerRadius="10" BorderWidth="1" BorderColor="White" TextColor="White"/>
+                    </Grid>
+                </Frame>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047077148242",
+    "project_id": "fuelprice-mexico",
+    "storage_bucket": "fuelprice-mexico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047077148242:android:1ae3efae7b845ff0c6f18b",
+        "android_client_info": {
+          "package_name": "com.FuelPriceMexico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047077148242-a887osrhg9hhd8fr2eg6u9ap50poe576.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxRdty5s9qMYqQyY32UtaWAYRLapRuimo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047077148242-a887osrhg9hhd8fr2eg6u9ap50poe576.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

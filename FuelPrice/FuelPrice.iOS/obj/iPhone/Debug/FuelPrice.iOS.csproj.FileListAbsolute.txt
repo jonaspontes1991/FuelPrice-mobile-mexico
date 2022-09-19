@@ -1,0 +1,228 @@
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\FuelPrice.iOS.exe
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\FuelPrice.iOS.pdb
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\FuelPrice.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\FuelPrice.pdb
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\optimized\
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\FuelPrice.iOS.csproj.AssemblyReference.cache
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\FuelPrice.iOS.csproj.CoreCompileInputs.cache
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\FuelPrice.iOS.csproj.CopyComplete
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\FuelPrice.iOS.exe
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\FuelPrice.iOS.pdb
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Net.Http.Formatting.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Newtonsoft.Json.Bson.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.IO.Compression.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Net.Http.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Security.Cryptography.Algorithms.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Security.Cryptography.Encoding.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Net.Http.Extensions.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Net.Http.Primitives.dll
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\projetos xamarin\FuelPrice\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\FuelPrice.iOS.exe
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\FuelPrice.iOS.pdb
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Net.Http.Formatting.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Net.Http.Extensions.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Net.Http.Primitives.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Newtonsoft.Json.Bson.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.IO.Compression.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Net.Http.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Security.Cryptography.Algorithms.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Security.Cryptography.Encoding.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\FuelPrice.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\FuelPrice.pdb
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\optimized\
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\FuelPrice.iOS.csproj.AssemblyReference.cache
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\FuelPrice.iOS.csproj.CoreCompileInputs.cache
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\FuelPrice.iOS.csproj.CopyComplete
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\FuelPrice.iOS.exe
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\FuelPrice.iOS.pdb
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Plugin.FirebasePushNotification.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Plugin.FirebasePushNotification.pdb
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Firebase.CloudMessaging.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Firebase.Core.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Firebase.Installations.dll
+C:\projetos xamarin\FuelPrice - Mobile Colombia\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Firebase.InstanceID.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\FuelPrice.iOS.exe
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\FuelPrice.iOS.pdb
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Net.Http.Formatting.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Net.Http.Extensions.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Net.Http.Primitives.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Newtonsoft.Json.Bson.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Plugin.FirebasePushNotification.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Plugin.FirebasePushNotification.pdb
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.IO.Compression.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Net.Http.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Security.Cryptography.Algorithms.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Security.Cryptography.Encoding.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Firebase.CloudMessaging.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Firebase.Core.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Firebase.Installations.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Firebase.InstanceID.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\FuelPrice.dll
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\bin\iPhone\Debug\FuelPrice.pdb
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\_ProcessedBundleResourcesPath.items
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\_ProcessedContentPath.items
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\optimized\
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\FuelPrice.iOS.csproj.AssemblyReference.cache
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\FuelPrice.iOS.csproj.CoreCompileInputs.cache
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\FuelPrice.iOS.csproj.CopyComplete
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\FuelPrice.iOS.exe
+C:\projetos xamarin\FuelPrice - Mobile Mexico\FuelPrice\FuelPrice.iOS\obj\iPhone\Debug\FuelPrice.iOS.pdb

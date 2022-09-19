@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FuelPrice.Views.RegistroPvp">
+    <Shell.TitleView >
+        <StackLayout>
+            <Image Source="price.png" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Margin="0,0,60,0"  WidthRequest="70"/>
+        </StackLayout>
+    </Shell.TitleView>
+
+    <StackLayout BackgroundColor="Azure" >
+        <StackLayout>
+            <Frame  BackgroundColor="Aqua"  Margin="0,0,0,0"  >
+                <Grid BackgroundColor="Aqua"  RowSpacing="0" ColumnSpacing="0" Margin="0,0,0,0">
+                    <!--<BoxView Background="#eaeaea" Grid.Row="0" Grid.Column="0" CornerRadius="10" VerticalOptions="CenterAndExpand"/>
+                    <SearchBar x:Name="busca" Grid.Row="0" Grid.Column="0" Placeholder="Buscar Posto" PlaceholderColor="Gray" HorizontalTextAlignment="Center" CancelButtonColor="Red" TextChanged="busca_TextChanged" VerticalOptions="CenterAndExpand" FontAttributes="Italic" TextColor="#7d2b4f"/>-->
+                </Grid>
+                <!--<Picker Title="Select a monkey"
+                    TitleColor="Red"
+                    ItemsSource="{Binding cli_List}"
+                    ItemDisplayBinding="{Binding Nome}" />-->
+                <!--<Image Source="Logo.png" WidthRequest="150" Margin="0"  />-->
+            </Frame>
+        </StackLayout>
+        <!--<ContentView HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Margin="0,-30,0,0" Padding="0,0,0,0" >
+            <CarouselView x:Name="SlideCliente" ItemsSource="{Binding cli_List}" CurrentItemChanged="CarouselView_CurrentItemChanged" >
+                <CarouselView.ItemTemplate>
+                    <DataTemplate>-->
+        <!--<Label Text="{Binding LabelText}" />-->
+        <StackLayout VerticalOptions="StartAndExpand" HeightRequest="400">
+            <Frame BackgroundColor="#36edd3" Margin="05,0,05,-20" CornerRadius="10" HasShadow="True"  >
+                <Grid ColumnSpacing="0" RowSpacing="0" Margin="0" x:Name="slideCliente"  >
+                    <BoxView Background="#eaeaea" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="6" CornerRadius="10" VerticalOptions="CenterAndExpand"/>
+                    <SearchBar x:Name="busca" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="6" Placeholder="Buscar Estacion" PlaceholderColor="Gray" HorizontalTextAlignment="Center" CancelButtonColor="Red" TextChanged="busca_TextChanged" VerticalOptions="CenterAndExpand" FontAttributes="Italic" TextColor="#7d2b4f"/>
+
+                    <BoxView Grid.Column="0" Grid.Row="1"/>
+                    <Image Source="Posto.png" WidthRequest="30" Grid.Column="0" Grid.Row="1" VerticalOptions="Center"/>
+
+                    <BoxView Grid.Column="0" Grid.Row="2"/>
+                    <Label Grid.Column="0" x:Name="lblNome" Grid.Row="2" Text="NOME:" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand" FontSize="Small" FontAttributes="Bold" TextColor="Black"/>
+
+                    <BoxView Grid.Column="1" Grid.Row="2" />
+                    <Picker x:Name="seletor" Title="SELECCIONE UN NEGOCIO" TitleColor="#7d2b4f" Grid.Column="1" Grid.Row="1" Grid.RowSpan="2"  Grid.ColumnSpan="4" HorizontalTextAlignment="Center" FontAttributes="bold" TextColor="#7d2b4f" ItemsSource="{Binding cli_List}" ItemDisplayBinding="{Binding Nome}" SelectedIndexChanged="Picker_SelectedIndexChanged"  HorizontalOptions="CenterAndExpand"/>
+
+                    <BoxView Grid.Column="5" Grid.Row="1"/>
+                    <ImageButton Source="Lapis.png" Grid.Column="5" Grid.Row="1"  Clicked="Button_Clicked" HorizontalOptions="Center" Grid.RowSpan="2" VerticalOptions="Center" Margin="0" WidthRequest="40" BackgroundColor="#36edd3" />
+                    <ImageButton Source="Lupa.png" Grid.Column="5" Grid.Row="3"  Clicked="ImageButton_Clicked" HorizontalOptions="Center" Grid.RowSpan="2" VerticalOptions="Center" Margin="0" WidthRequest="40" BackgroundColor="#36edd3" />
+                    <BoxView Grid.Column="0" Grid.Row="4"/>
+                    <BoxView Grid.Column="1" Grid.Row="1" />
+                    <Label Grid.Column="1" Grid.Row="1" x:Name="lblId" Text="ID:" HorizontalOptions="EndAndExpand" VerticalOptions="Start" FontSize="Small" FontAttributes="Bold" TextColor="Black" />
+
+                    <BoxView Grid.Column="2" Grid.Row="1"/>
+                    <Label x:Name="txtCnpjCliente" Grid.Column="2" Grid.Row="1"  Grid.ColumnSpan="4" HorizontalOptions="Start" FontAttributes="Bold" VerticalOptions="Start" FontSize="Small" TextColor="#7d2b4f"/>
+                    <!--<BoxView Grid.Column="1" Grid.Row="2" />
+                                    <Button x:Name="cnpj" Grid.Column="1" Grid.Row="2" Text="Buscar Concorrências" Grid.ColumnSpan="4" Clicked="GetValue" HorizontalOptions="CenterAndExpand" Margin="-10" VerticalOptions="Center" FontSize="Micro" TextColor="Black" />-->
+                </Grid>
+            </Frame>
+        </StackLayout>
+        <!--</DataTemplate>
+                </CarouselView.ItemTemplate>
+            </CarouselView>
+        </ContentView>-->
+        <StackLayout Margin="0,-26,0,0" Orientation="Vertical"  VerticalOptions="StartAndExpand">
+            <!--<Button x:Name="ocultar" Text="Ocultar" Clicked="Button_Clicked_1" HorizontalOptions="FillAndExpand" VerticalOptions="Start" BackgroundColor="Aqua" TextColor="Red" FontAttributes="Bold" FontSize="Small" Margin="200,0,03,-5"/>-->
+
+            <RefreshView x:Name="refreshV" RefreshColor="#36edd3" >
+                <Frame Margin="15,0,15,0" Padding="10" CornerRadius="10" >
+                    <ListView Margin="0,0,0,0" Header="COMPETENCIA"  x:Name="listv" HasUnevenRows="True" SeparatorColor="#eaeaea" SelectionMode="None">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell >
+                                    <SwipeView  >
+                                        <SwipeView.RightItems>
+                                            <SwipeItems >
+
+                                                <SwipeItem Text="Adicionar" BackgroundColor="#36edd3" IconImageSource="Lapis.png" Clicked="SwipeItem_Clicked"/>
+                                                <SwipeItem Text="Buscar" BackgroundColor="#36edd3" IconImageSource="Lupa.png" Clicked="SwipeItem_Clicked_1"/>
+                                            </SwipeItems>
+                                        </SwipeView.RightItems>
+                                        <Grid ColumnSpacing="0"  RowSpacing="1" Margin="0" Padding="03" x:Name="slideCliente2" >
+                                            <Frame Grid.Column="0" Grid.RowSpan="6" Grid.Row="0" CornerRadius="10" BackgroundColor="Aqua" Grid.ColumnSpan="10" HasShadow="True"/>
+                                            <Image Source="Posto.png" WidthRequest="30" Grid.Column="0" Grid.Row="3" VerticalOptions="CenterAndExpand" Grid.RowSpan="2"/>
+                                            <!--<Frame Grid.Column="1" Grid.Row="0"/>-->
+                                            <Label Text="NOME" FontAttributes="Bold"  BackgroundColor="#36edd3" Grid.Row="0" Margin="05,0,0,0" Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2" FontSize="12" HorizontalOptions="Start" TextColor="Black"/>
+                                            <!--<BoxView Grid.Column="2" Grid.Row="0"/>-->
+                                            <Label Text="{Binding NCO_RAZONSOCIAL}" Margin="05,0,0,0" MaxLines="1" LineBreakMode="TailTruncation" BackgroundColor="#36edd3" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="10" HorizontalOptions="Start"  FontSize="12" FontAttributes="Bold" TextColor="#7d2b4f" />
+                                            <!--<BoxView Grid.Column="1" Grid.Row="1"/>-->
+                                            <Label Grid.Column="1" Grid.Row="4" Text="ID:" HorizontalOptions="Fill" FontAttributes="Bold" TextColor="Black" FontSize="12"/>
+                                            <!--<BoxView Grid.Column="2" Grid.Row="1"/>-->
+                                            <Label Grid.Column="2" Grid.Row="4" Text="{Binding  NCO_PERMISO}" Grid.ColumnSpan="3" HorizontalOptions="StartAndExpand" FontAttributes="Bold" TextColor="#7d2b4f" FontSize="12"/>
+                                            <!--<BoxView Grid.Column="6" Grid.Row="0" />-->
+                                            <!--<ImageButton Source="Lapis.png" Grid.Column="6" Grid.Row="0" HorizontalOptions="StartAndExpand" Grid.RowSpan="2" VerticalOptions="StartAndExpand" Margin="0" WidthRequest="40" BackgroundColor="Transparent" />-->
+                                        </Grid>
+                                    </SwipeView>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </Frame>
+            </RefreshView>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

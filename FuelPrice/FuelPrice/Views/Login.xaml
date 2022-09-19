@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FuelPrice.Views.Login" Background="#2A3f54">
+    <RelativeLayout>
+        <Image Source="login_img.png" RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property= Width}" RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property= Height}"/>
+        <Grid RowSpacing="0" ColumnSpacing="0" RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property= Width}" RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property= Height}">
+
+            <RefreshView x:Name="RefreshV" RefreshColor= "#36edd3" VerticalOptions="Center" HorizontalOptions="Center" >
+
+                <Frame VerticalOptions="Center" Margin="30" HasShadow="True">
+                <Grid>
+                    <Entry x:Name="txtEmail" Placeholder="Usuário" Grid.Row="0" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontSize="12" WidthRequest="300" PlaceholderColor="Gray" TextColor="Black"/>
+                        <Entry x:Name="txtSenha" Placeholder="contraseña" Grid.Row="1" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontSize="12" WidthRequest="300" IsPassword="True" PlaceholderColor="Gray" TextColor="Black" />
+                    <Button Text="Entrar" Clicked="Button_Clicked" Grid.Row="2" BackgroundColor="#36edd3"/>
+                </Grid>
+            </Frame>
+            </RefreshView>
+
+        </Grid>
+
+    </RelativeLayout>
+</ContentPage>

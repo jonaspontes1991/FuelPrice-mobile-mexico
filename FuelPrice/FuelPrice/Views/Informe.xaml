@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FuelPrice.Views.Informe">
+    <Shell.TitleView >
+        <StackLayout>
+            <Image Source="ReportEs.png" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Margin="0,0,60,0"  WidthRequest="70"/>
+        </StackLayout>
+    </Shell.TitleView>
+    <ContentPage.Content>
+        <StackLayout Margin="05,10,05,0">
+            <StackLayout  >
+                <StackLayout VerticalOptions="Center" WidthRequest="0">
+                    <SearchBar x:Name="busca" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="9" Placeholder="Buscar Estación" PlaceholderColor="Gray" HorizontalTextAlignment="Center" CancelButtonColor="Red" TextChanged="busca_TextChanged" VerticalOptions="CenterAndExpand" FontAttributes="Italic" TextColor="#7d2b4f"/>
+                    <StackLayout HeightRequest="240" VerticalOptions="CenterAndExpand">
+                        <RefreshView  Refreshing="RefreshView_Refreshing" x:Name="lg" WidthRequest="90">
+                            <Grid WidthRequest="200">
+                                <Picker Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="9" FontSize="Small" x:Name="seletor" HorizontalTextAlignment="Center" Title="Seleccione una Estación"
+                                FontAttributes="bold" TextColor="#7d2b4f" ItemDisplayBinding="{Binding Nome}" BackgroundColor="#36edd3"
+                                SelectedIndexChanged="seletor_SelectedIndexChangedAsync" HorizontalOptions="CenterAndExpand" WidthRequest="600"/>
+                                
+                                <Picker Grid.Row="1" Grid.Column="6" Grid.ColumnSpan="3" x:Name="seletorData" FontSize="Small" BackgroundColor="#36edd3" VerticalOptions="CenterAndExpand" HorizontalTextAlignment="Center" Title="Hoy"
+                                FontAttributes="bold" TextColor="#7d2b4f" ItemDisplayBinding="{Binding .}"
+                                HorizontalOptions="CenterAndExpand" WidthRequest="300" SelectedIndexChanged="seletor2_SelectedIndexChanged"/>
+
+                                <Picker Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="6"  x:Name="seletor2" HorizontalTextAlignment="Center" BackgroundColor="#36edd3" Title="Producto"
+                                FontAttributes="bold" TextColor="#7d2b4f" ItemDisplayBinding= "{Binding Nome}" FontSize="Small"
+                                SelectedIndexChanged="seletor2_SelectedIndexChanged" HorizontalOptions="CenterAndExpand" WidthRequest="400" />
+                            </Grid>
+                        </RefreshView>
+                    </StackLayout>
+                    <StackLayout>
+                    <Frame x:Name="Flogo" BackgroundColor="#36edd3" VerticalOptions="StartAndExpand">
+                        <Frame BackgroundColor="White" CornerRadius="10">
+                            <Image Source="ReportEs.png" WidthRequest="80"/>
+                        </Frame>
+                    </Frame>
+                    </StackLayout>
+                    <Frame x:Name="Fgrid" BackgroundColor="#36edd3" VerticalOptions="CenterAndExpand">
+                        <Frame BackgroundColor="Aqua" CornerRadius="10">
+                            
+                            <Grid  x:Name="grade" HeightRequest="400">
+                                <Frame  Grid.Row="0" Grid.Column="0" Grid.RowSpan="4" Grid.ColumnSpan="4"/>
+                                <Label Text="PVP DIA" HorizontalTextAlignment="Center" Grid.Row="0" Grid.ColumnSpan="3" FontSize="12" VerticalTextAlignment="Start"/>
+                                <Label x:Name="dia"  HorizontalTextAlignment="Center" Grid.Row="0" Grid.ColumnSpan="4" Grid.Column="0" FontSize="12" TextColor="Red" VerticalTextAlignment="End"/>
+                                <Label Text="MARGEN S/CUSTO" HorizontalTextAlignment="Center" Grid.Row="2" FontSize="12" Grid.ColumnSpan="3" VerticalTextAlignment="End"/>
+                                <Label x:Name="MARGEN"  HorizontalTextAlignment="Center" Grid.Row="3" Grid.ColumnSpan="4" FontSize="12" TextColor="Red"/>
+                                
+                                <Frame Grid.Row="0" Grid.Column="4" Grid.ColumnSpan="11"/>
+                                <Label Text="PVP MAX" HorizontalTextAlignment="Center" Grid.Row="0" Grid.Column="4" Grid.ColumnSpan="3" FontSize="12" VerticalTextAlignment="Start"/>
+                                <Label x:Name="max" HorizontalTextAlignment="Start" Grid.Row="0" Grid.Column="4" Grid.ColumnSpan="5" FontSize="12" VerticalTextAlignment="End" TextColor="Red"/>
+                                <Label Text="DIF-PVP MAX" HorizontalTextAlignment="Start" Grid.Row="0" Grid.Column="8" FontSize="12" VerticalTextAlignment="Start" Grid.ColumnSpan="6"/>
+                                <Label x:Name="DIFPVPMAX"  HorizontalTextAlignment="Start" Grid.Row="0" Grid.Column="8" FontSize="12" VerticalTextAlignment="End" TextColor="Red" Grid.ColumnSpan="5"/>
+                                
+                                <Frame Grid.Row="1" Grid.Column="4" Grid.ColumnSpan="11"/>
+                                <Label Text="PVP MIN" HorizontalTextAlignment="Center" Grid.Row="1" Grid.Column="4" Grid.ColumnSpan="3" FontSize="12" VerticalTextAlignment="Start"/>
+                                <Label x:Name="min" HorizontalTextAlignment="Start" Grid.Row="1" Grid.Column="4" Grid.ColumnSpan="5" FontSize="12" VerticalTextAlignment="End" TextColor="Red"/>
+                                <Label Text="DIF-PVP MIN" HorizontalTextAlignment="Start" Grid.Row="1" Grid.Column="8" FontSize="12" VerticalTextAlignment="Start" Grid.ColumnSpan="6"/>
+                                <Label x:Name="DIFPVPMIN"  HorizontalTextAlignment="Start" Grid.Row="1" Grid.Column="8" FontSize="12" VerticalTextAlignment="End" TextColor="Red" Grid.ColumnSpan="5"/>
+                                
+                                <Frame Grid.Row="2" Grid.Column="4" Grid.ColumnSpan="11"/>
+                                <Label Text="PVP COM" HorizontalTextAlignment="Center" Grid.Row="2" Grid.Column="4" Grid.ColumnSpan="3" FontSize="12" VerticalTextAlignment="Start"/>
+                                <Label x:Name="com" HorizontalTextAlignment="Start" Grid.Row="2" Grid.Column="4" Grid.ColumnSpan="5" FontSize="12" VerticalTextAlignment="End" TextColor="Red"/>
+                                <Label Text="DIF-COMPETENCIA" HorizontalTextAlignment="Start" Grid.Row="2" Grid.Column="8" FontSize="12" VerticalTextAlignment="Start" Grid.ColumnSpan="6"/>
+                                <Label x:Name="DIFCON"  HorizontalTextAlignment="Start" Grid.Row="2" Grid.Column="8" FontSize="12" VerticalTextAlignment="End" TextColor="Red" Grid.ColumnSpan="5"/>
+
+                                <Frame Grid.Row="3" Grid.Column="4" Grid.ColumnSpan="11"/>
+                                <Label Text="PVP EST" HorizontalTextAlignment="Center" Grid.Row="3" Grid.Column="4" Grid.ColumnSpan="3" FontSize="12"  VerticalTextAlignment="Start"/>
+                                <Label x:Name="est" HorizontalTextAlignment="Start" Grid.Row="3" Grid.Column="4" Grid.ColumnSpan="5" FontSize="12" VerticalTextAlignment="End" TextColor="Red"/>
+                                <Label Text="DIF-ESTRATEGICA" HorizontalTextAlignment="Start" Grid.Row="3" Grid.Column="8" FontSize="12" VerticalTextAlignment="Start" Grid.ColumnSpan="6"/>
+                                <Label x:Name="DIFEST" HorizontalTextAlignment="Start" Grid.Row="3" Grid.Column="8" FontSize="12" VerticalTextAlignment="End" TextColor="Red" Grid.ColumnSpan="5"/>
+
+                            </Grid>
+                        </Frame>
+                    </Frame>
+
+                </StackLayout>
+            </StackLayout>
+
+            <StackLayout VerticalOptions="Fill" HorizontalOptions="CenterAndExpand"  Margin="0,0,0,0" >
+                <RefreshView x:Name="tabelaRefresh" IsEnabled="False" RefreshColor="#36edd3" > 
+                     <Frame>
+                        <CollectionView x:Name="tabela" Margin="0,0,0,0" Header="COMPETENCIA" >
+                           <CollectionView.ItemTemplate>
+                                <DataTemplate>
+                                <Frame HasShadow="True"  BackgroundColor="Aqua" CornerRadius="10" Padding="10" >
+                                    <Grid HeightRequest="130" Margin="0,10,0,10" ColumnSpacing="0" >
+                                    <Label FontSize="11" FontAttributes="Bold" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" Text="POSTO" VerticalTextAlignment="Start" HorizontalTextAlignment="Start"/>
+                                        <Label FontSize="11" FontAttributes="Bold" Grid.Row="0" Grid.Column="4" Grid.ColumnSpan="5" Text="{Binding PRE_NOPERMISO}" VerticalTextAlignment="Start" HorizontalTextAlignment="Start"/>
+                                    <Label FontSize="11" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="7" Text="{Binding NOME}" FontAttributes="Bold" TextColor="#7d2b4f" VerticalTextAlignment="End"/>
+                                        <BoxView BackgroundColor="#36edd3" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="16"/>
+                                        <Label FontSize="10" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="5" Text="ULTIMO:" FontAttributes="Bold"  HorizontalOptions="StartAndExpand" VerticalTextAlignment="Center"/>
+                                        <Label FontSize="11" Grid.Row="2" Grid.Column="3" Grid.ColumnSpan="3" Text="{Binding FECHA}"  FontAttributes="Bold" VerticalTextAlignment="Center" HorizontalTextAlignment="Start"/>
+                                        <BoxView BackgroundColor="#ccc" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="16" />
+                                        <Label FontSize="14" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="6" Text="{Binding PRE_PRECIO}" BackgroundColor="#36edd3" TextColor="{Binding COR}" FontAttributes="Bold" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+
+                                        <Label FontSize="10" Grid.Row="2" Grid.Column="6" Grid.ColumnSpan="3" FontAttributes="Bold" Text="ANTERIOR" VerticalTextAlignment="Center" HorizontalOptions="Center"/>
+                                        <Label FontSize="11" Grid.Row="2" Grid.Column="9" Grid.ColumnSpan="3" FontAttributes="Bold" Text="{Binding FECHA_ANTERIOR}" VerticalTextAlignment="Center"/>
+                                        <Label FontSize="14" Grid.Row="3" Grid.Column="7"  Grid.ColumnSpan="4" Text="{Binding PRE_ANTERIOR}" FontAttributes="Bold" TextColor="Black" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"/>
+                                    <Label FontSize="10" Grid.Row="2" Grid.Column="13" Grid.ColumnSpan="2" FontAttributes="Bold" Text="DIF" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+                                        <Label FontSize="14" Grid.Row="3" Grid.Column="12" Text="{Binding DIF}" Grid.ColumnSpan="4" TextColor="Black" BackgroundColor="{Binding COR}" HorizontalTextAlignment="Center" FontAttributes="Bold" VerticalTextAlignment="Center"/>
+                                    <Label FontSize="11" Grid.Row="0" Grid.Column="12" Grid.ColumnSpan="4" Text="TENDÊNCIA" FontAttributes="Bold" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
+                                        <Image Grid.Row="1" Grid.Column="12" Grid.RowSpan="1" Grid.ColumnSpan="4" Source="{Binding TENDENCIA}" VerticalOptions="Start" WidthRequest="40" HorizontalOptions="Center"/>
+                                </Grid>
+                                </Frame>    
+                                </DataTemplate>
+                            </CollectionView.ItemTemplate>
+                       </CollectionView>
+                     </Frame>
+                </RefreshView>
+            </StackLayout>
+
+        </StackLayout>
+            
+    </ContentPage.Content>
+</ContentPage>

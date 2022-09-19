@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FuelPrice.MainPage">
+
+    <StackLayout  >
+      
+        <Frame>
+           <Image Source="Logo.png" WidthRequest="150" Margin="30"  />
+        </Frame>
+        <Frame BackgroundColor="#10ad96" Margin="20" CornerRadius="10" HasShadow="True">
+            <Label Text="alguma coisa" HorizontalOptions="Center" FontSize="24"/>
+        </Frame>
+    </StackLayout>
+    
+
+</ContentPage>
